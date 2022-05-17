@@ -1,0 +1,29 @@
+h1 {
+    border:  1px solid blue;
+    color: rgb(31, 194, 194);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div {
+    border: solid brown;
+    padding: 5px;
+    background-color: coral;
+}
+li {
+   margin: 10px;
+}
+ol {
+    color: brown;
+}
+#Bens {
+    background-color: aqua;
+}
+.Luis {
+    background-color: aqua;
+}
+body {
+    margin: 10px;
+    padding: 5px;
+}
+img {
+    border-radius: 50px;
